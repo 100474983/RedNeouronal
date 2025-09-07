@@ -1,0 +1,6 @@
+Una vez creado y activaod el entorno virtual descargar estas librerias
+
+pip install scikit-learn
+pip install matplotlib
+pip install scipy
+pip install numpy
